@@ -1,0 +1,47 @@
+h1{
+    color:teal;
+}
+h2{
+    color:teal;
+}
+p{
+    color:teal;
+}
+h1{
+    font-family:cursive;
+}
+li{
+    font-family:fantasy;
+    background-color: thistle;
+}
+h2{
+    font-family:cursive;
+}
+p{
+    font-family:initial;
+}
+li{
+    color:purple
+}
+li{
+    font-size: 6mm;
+}
+p{
+    font-size: 6mm;
+}
+h3{
+    font-size: 7mm;
+    color:steelblue;
+    font-family: fantasy;
+}
+.origami{
+    display:flex;
+    justify-content:unset;
+    border-radius: 20px;
+    background-color:thistle;
+    font-family: fantasy;
+}
+.grid img{
+    border:2px solid black;
+    border-radius:50px;
+}
